@@ -1,0 +1,25 @@
+# Ignorar arquivos de configuração do editor
+.vscode/
+.idea/
+
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Ignorar arquivos de notebooks Jupyter
+.ipynb_checkpoints/
+
+# Ignorar ambientes virtuais
+env/
+venv/
+
+# Ignorar arquivos de dados pesados
+*.csv
+*.parquet
+
+# Ignorar logs
+*.log
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
